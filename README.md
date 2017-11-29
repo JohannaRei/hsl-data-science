@@ -12,3 +12,6 @@ Tasks are held in various Jupyter notebooks
 - Data_Cleanup.ipynb - Combine datasources, imputate, and clean the data
 - Data_Science.ipynb - Various classifiers
 - Visualisations.ipynb - Graphs of the results of data analysis
+
+## Created by
+Sean Weber, Johanna Reinikainen & Sanna Talola
